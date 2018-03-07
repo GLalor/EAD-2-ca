@@ -1,0 +1,11 @@
+C:\student\EADCA1\CA1Console\CA1Console\bin\Debug\CA1Console.exe.config
+C:\student\EADCA1\CA1Console\CA1Console\bin\Debug\CA1Console.exe
+C:\student\EADCA1\CA1Console\CA1Console\bin\Debug\CA1Console.pdb
+C:\student\EADCA1\CA1Console\CA1Console\bin\Debug\Newtonsoft.Json.dll
+C:\student\EADCA1\CA1Console\CA1Console\bin\Debug\System.Net.Http.Formatting.dll
+C:\student\EADCA1\CA1Console\CA1Console\bin\Debug\Newtonsoft.Json.xml
+C:\student\EADCA1\CA1Console\CA1Console\bin\Debug\System.Net.Http.Formatting.xml
+C:\student\EADCA1\CA1Console\CA1Console\obj\Debug\CA1Console.csprojResolveAssemblyReference.cache
+C:\student\EADCA1\CA1Console\CA1Console\obj\Debug\CA1Console.csproj.CoreCompileInputs.cache
+C:\student\EADCA1\CA1Console\CA1Console\obj\Debug\CA1Console.exe
+C:\student\EADCA1\CA1Console\CA1Console\obj\Debug\CA1Console.pdb
